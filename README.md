@@ -6,8 +6,7 @@
 Uyghur--Chinese judicial machine translation is a low-resource and high-stakes translation scenario.  
 A fluent translation may still be legally unreliable if it changes judicial terminology, party roles, claims, judgment results, dates, amounts, or event relations.
 
-This repository provides the anonymized implementation for:
-
+This repository highlights the following contributions:
 | Component | Description |
 |---|---|
 | 🧾 **UCJC** | A multi-granularity Uyghur--Chinese judicial MT resource |
@@ -28,8 +27,7 @@ The data is processed through cleaning, normalization, language filtering, judic
 | ⚖️ **China Judgments Online** | Public judicial document resource | Judicial documents and sentence-level legal text samples |
 | 🏷️ **Extracted judicial terminology** | Constructed from the processed judicial corpus | Standardized Uyghur--Chinese legal term constraints |
 
-All released data is anonymized and intended only for research on low-resource judicial machine translation.
-
+All released data has undergone privacy anonymization and is intended solely for research on low-resource judicial machine translation.
 ## 🛠️ Tools and Frameworks
 
 This repository builds on the following public tools and frameworks:
