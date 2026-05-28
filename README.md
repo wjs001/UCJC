@@ -38,7 +38,7 @@ This repository builds on the following public tools and frameworks:
 | 🚀 **Verl** | [GitHub: verl-project/verl](https://github.com/verl-project/verl) | Reinforcement learning with GRPO |
 | 📏 **BLEU** | Standard MT metric | Surface-level machine translation evaluation |
 | 📊 **COMET** | COMET-style MT evaluation resources | Neural semantic translation evaluation |
-| ⚙️ **Custom reward scripts** | Included in this repository | Terminology consistency, hallucination penalty, and event-graph reward computation |
+| ⚙️ **Training platform** | [BitaHub](https://www.bitahub.com/) | Used for UCJC model training, including SFT and RLVR experiments |
 
 ## 🤖 Models Used
 
