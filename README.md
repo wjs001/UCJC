@@ -37,7 +37,7 @@ This repository builds on the following public tools and frameworks:
 | 🦙 **LLaMA-Factory** | [GitHub: hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) | Supervised fine-tuning |
 | 🚀 **Verl** | [GitHub: verl-project/verl](https://github.com/verl-project/verl) | Reinforcement learning with GRPO |
 | 📏 **BLEU** | Standard MT metric | Surface-level machine translation evaluation |
-| 📊 **COMET / COMETKiwi** | COMET-style MT evaluation resources | Neural semantic translation evaluation |
+| 📊 **COMET** | COMET-style MT evaluation resources | Neural semantic translation evaluation |
 | ⚙️ **Custom reward scripts** | Included in this repository | Terminology consistency, hallucination penalty, and event-graph reward computation |
 
 ## 🤖 Models Used
